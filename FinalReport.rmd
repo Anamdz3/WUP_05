@@ -80,4 +80,6 @@ We ran three inferential tests in this section, Two Chi-Squared tests, and a Fis
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-The odds ration from getting this disease, if you take the drug goes form .63 to .81, meaning that you have more odds of getting the disease if you take this grug, we have a bad drug, and we conclude that the drug doesn't work.
+The odds ration from getting this disease, if you take the drug goes form .63 to .81, meaning that you have more odds of getting the disease if you take this grug, we have an ineffective drug, and we conclude that the drug doesn't work.
+
+As we worked throught this categorical data, we compared two different categories: you got aids and you didnt got adis depending on the results based off of it you took 
